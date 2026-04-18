@@ -168,9 +168,3 @@ project/
 * 📊 Deployment logs
 * 🐳 Optional container support
 
----
-
-## 💡 Inspiration
-
-Inspired by Vercel and Netlify — but designed to run on a single server.
-
